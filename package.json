@@ -31,7 +31,7 @@
   },
   "name": "shipjs",
   "devDependencies": {
-    "all-contributors-cli": "6.15.0",
+    "all-contributors-cli": "6.26.1",
     "lerna": "8.2.2"
   },
   "dependencies": {
