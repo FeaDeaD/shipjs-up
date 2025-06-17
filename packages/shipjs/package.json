@@ -47,7 +47,7 @@
     "dotenv": "^8.2.0",
     "ejs": "^3.0.0",
     "globby": "^14.1.0",
-    "inquirer": "7.1.0",
+    "inquirer": "12.6.3",
     "mkdirp": "^1.0.0",
     "open": "^7.0.0",
     "prettier": "^3.5.3",
