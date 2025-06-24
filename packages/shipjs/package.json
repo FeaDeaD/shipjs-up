@@ -44,7 +44,7 @@
     "conventional-changelog-core": "^9.0.0",
     "conventional-changelog-preset-loader": "^5.0.0",
     "deepmerge": "^4.2.2",
-    "dotenv": "^8.2.0",
+    "dotenv": "^16.5.0",
     "ejs": "^3.0.0",
     "globby": "^14.1.0",
     "inquirer": "12.6.3",
